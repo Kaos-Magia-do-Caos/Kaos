@@ -1,0 +1,27 @@
+.body{
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.cabecalho {
+ text-align: center;
+}
+
+.chamada {
+	background-color: black;
+	padding: 40px 15px;
+}
+
+.chamada--titulo1 {
+	color: white;
+	font-size: 24px;
+}
+
+.artigo {
+
+}
+
+.artigo--titulo2 {
+	font-size: 20px;
+}
