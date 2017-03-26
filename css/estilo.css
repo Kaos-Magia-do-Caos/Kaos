@@ -6,10 +6,12 @@
 
 .cabecalho {
  text-align: center;
+ border: 2px solid #ffe400;
+ padding: 2px;
 }
 
 .chamada {
-	background-color: black;
+	background-color: #000000;
 	padding: 40px 15px;
 }
 
@@ -19,9 +21,16 @@
 }
 
 .artigo {
-
+	padding-bottom: 10px;
 }
 
 .artigo--titulo2 {
+	border: 3px solid #ffe400;
+	background-color: #fffbdd;
 	font-size: 20px;
+	padding: 2px;
+}
+
+.artigo--paragrafo {
+	
 }
