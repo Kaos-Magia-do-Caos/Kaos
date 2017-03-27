@@ -1,8 +1,9 @@
  @import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
-.body{
+
+body{
 	margin: 0;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 .cabecalho {
@@ -12,12 +13,13 @@
 
 .banner {
 	background-color: #000000;
-	padding: 40px 15px;
+	padding: 30px 10px;
 }
 
 .banner--titulo1 {
 	color: white;
-	font-size: 24px;
+	font-size: 30px;
+	font-family: 'Jim Nightshade', cursive;
 }
 
 .link--titulo {
@@ -39,6 +41,19 @@
 	padding: 2px;
 }
 
-.artigo--paragrafo {
-	
+
+@media (min-width: 600px) {
+
+	body {
+		font-size: 16px;
+	}
+
+	.banner {
+		padding: 40px 15px;
+	}
+
+	.banner--titulo1 {
+		font-size: 50px;
+	}
+
 }
