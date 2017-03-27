@@ -6,16 +6,15 @@
 
 .cabecalho {
  text-align: center;
- border: 2px solid #ffe400;
  padding: 2px;
 }
 
-.chamada {
+.banner {
 	background-color: #000000;
 	padding: 40px 15px;
 }
 
-.chamada--titulo1 {
+.banner--titulo1 {
 	color: white;
 	font-size: 24px;
 }
