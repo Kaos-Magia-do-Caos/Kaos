@@ -1,4 +1,3 @@
- @import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
 
 body{
 	margin: 0;
@@ -21,14 +20,11 @@ body{
 .banner--titulo1 {
 	color: white;
 	font-size: 30px;
-	font-family: 'Jim Nightshade', cursive;
 }
 
 .link--titulo {
 	text-decoration: none;
 	color: #000000;
-	font-family: 'Jim Nightshade', cursive;
-	font-size: 26px;
 }
 
 
