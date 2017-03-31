@@ -26,6 +26,12 @@ body{
  	display: none;
  }
 
+.link--titulo {
+		text-decoration: none;
+	color: #000000;
+}
+
+
 .artigo {
 	padding-bottom: 10px;
 	border-top: 1px solid;
@@ -82,11 +88,6 @@ body{
 		color: #333;
 		border-bottom: 3px solid #000;
 
-	}
-
-	.link--titulo {
-		text-decoration: none;
-		color: #000000;
 	}
 
 
